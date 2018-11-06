@@ -1,6 +1,6 @@
 ### Prove it! - Windows and Linux Project
 
-Now that you have finished an intensive dive into the wonderful world of Windows and Linux operating systems, It is time to prove it!
+Now that you have finished a deep dive into the wonderful world of Windows and Linux operating systems, It is time to prove it!
 Your mission is to research one of the provided topics and complete the following.
 
 #### Part One Objectives 
@@ -9,7 +9,7 @@ Objective 1:
 Determine the key sub topics, and examples to demonstrate for your topic. 
 
 Objective 2: 
-Project Proposal. In 3-5 sentences explain how you want to present your topic.  You *CAN NOT* do a presentation, slides, or powerpoint. The more creative and effective your presentation the more points you will receive. 
+Project Proposal. In 3-5 sentences explain how you want to present your topic.  You *CAN NOT* do slides or a powerpoint. The more creative and effective your presentation the more points you will receive. 
 
 Objective 3:
 Create something hands on that the class can do to reinforce your topic. 
