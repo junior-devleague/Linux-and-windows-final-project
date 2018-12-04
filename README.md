@@ -50,6 +50,8 @@ https://docs.google.com/document/d/1b4bqiH9EcUy5Ly8Yuv1m0wsMdcYdpC-H4xJphIXMk00/
 4. Effectiveness of demonstration (5 pts)
 5. How well you worked in a Team (10 pts)
 Extra Credit- You can get an additional 10 pts or 20% of the whole grade for being creative. This means doing something unique, alternative, funny, etc. 
+
+
 Total --------------------------------- 50 pts
 
 
