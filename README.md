@@ -40,7 +40,7 @@ Create something hands on that the class can do to reinforce your topic.
 
 #### Project Proposal Template
 Complete the follwoing project proposal:
-https://docs.google.com/document/d/1b4bqiH9EcUy5Ly8Yuv1m0wsMdcYdpC-H4xJphIXMk00/edit
+https://docs.google.com/document/d/1b4bqiH9EcUy5Ly8Yuv1m0wsMdcYdpC-H4xJphIXMk00/edit?usp=sharing
 
 
 #### You will be graded on the following:
